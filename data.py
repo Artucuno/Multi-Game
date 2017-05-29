@@ -1,0 +1,5 @@
+VERSION = "1.9"
+
+CREATORS = "Articuno1234"
+
+DICE_VER = "1.1BETA"
